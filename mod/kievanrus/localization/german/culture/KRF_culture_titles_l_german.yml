@@ -1,0 +1,36 @@
+﻿l_german:
+
+# Rus
+ king_feudal_male_rus:0 "Großfürst"
+ king_feudal_female_rus:0 "Großfürstin"
+ kingdom_feudal_rus:0 "Großfürstentum"
+ #prince_male_rus:0 "Kniazhich"
+ #prince_female_rus:0 "Kniazhna"
+ prince_male_rus_empire:0 "Zarev"
+ prince_female_rus_empire:0 "Zarevin"
+  
+# Bulgarian
+ king_feudal_male_bulgarian:0 "Zar"
+ king_feudal_female_bulgarian:0 "Zarin"
+ kingdom_feudal_bulgarian:0 "Zarentum"
+ 
+# Serbian
+ count_feudal_male_serbian:0 "Zhupan"
+ count_feudal_female_serbian:0 "Zhupanin"
+ county_feudal_serbian:0 "Zhupanentum"
+ duke_feudal_male_serbian:0 "Großzhupan"
+ duke_feudal_female_serbian:0 "Großzhupanin"
+ duchy_feudal_serbian:0 "Großzhupanentum"
+ 
+# Vlach
+ duke_feudal_male_vlach:0 "Woiwode"
+ duke_feudal_female_vlach:0 "Woiwodin"
+ duchy_feudal_vlach:0 "Woiwodentum"
+ king_feudal_male_vlach:0 "Hospodar"
+ king_feudal_female_vlach:0 "Hospodarin"
+ kingdom_feudal_vlach:0 "Hospodarentum"
+ 
+# Croatian
+ count_feudal_male_croatian:0 "Zhupan"
+ count_feudal_female_croatian:0 "Zhupanin"
+ county_feudal_croatian:0 "Zhupanentum"

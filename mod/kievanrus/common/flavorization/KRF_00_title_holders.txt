@@ -1,0 +1,190 @@
+﻿
+# Rus
+
+king_feudal_male_rus = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 47
+	governments = { feudal_government tribal_government }
+	cultures = { russian }
+}
+king_feudal_female_rus = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 47
+	governments = { feudal_government tribal_government }
+	cultures = { russian }
+}
+kingdom_feudal_rus = {
+	type = title
+	tier = kingdom
+	priority = 47
+	governments = { feudal_government tribal_government }
+	cultures = { russian }
+}
+
+# Bulgarian
+
+king_feudal_male_bulgarian = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 47
+	governments = { feudal_government tribal_government }
+	cultures = { bulgarian }
+}
+king_feudal_female_bulgarian = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 47
+	governments = { feudal_government tribal_government }
+	cultures = { bulgarian }
+}
+kingdom_feudal_bulgarian = {
+	type = title
+	tier = kingdom
+	priority = 47
+	governments = { feudal_government tribal_government }
+	cultures = { bulgarian }
+}
+
+# Serbian
+
+count_feudal_male_serbian = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 18
+	governments = { feudal_government tribal_government }
+	cultures = { serbian }
+}
+count_feudal_female_serbian = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 18
+	governments = { feudal_government tribal_government }
+	cultures = { serbian }
+}
+county_feudal_serbian = {
+	type = title
+	tier = county
+	priority = 18
+	governments = { feudal_government tribal_government }
+	cultures = { serbian }
+}
+duke_feudal_male_serbian = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 30
+	governments = { feudal_government tribal_government }
+	cultures = { serbian }
+}
+duke_feudal_female_serbian = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 30
+	governments = { feudal_government tribal_government }
+	cultures = { serbian }
+}
+duchy_feudal_serbian = {
+	type = title
+	tier = duchy
+	priority = 30
+	governments = { feudal_government tribal_government }
+	cultures = { serbian }
+}
+
+# Vlach
+
+duke_feudal_male_vlach = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 27
+	governments = { feudal_government tribal_government }
+	cultures = { vlach }
+}
+duke_feudal_female_vlach = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 27
+	governments = { feudal_government tribal_government }
+	cultures = { vlach }
+}
+duchy_feudal_vlach = {
+	type = title
+	tier = duchy
+	priority = 27
+	governments = { feudal_government tribal_government }
+	cultures = { vlach }
+}
+king_feudal_male_vlach = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 47
+	governments = { feudal_government tribal_government }
+	cultures = { vlach }
+}
+king_feudal_female_vlach = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 47
+	governments = { feudal_government tribal_government }
+	cultures = { vlach }
+}
+kingdom_feudal_vlach = {
+	type = title
+	tier = kingdom
+	priority = 47
+	governments = { feudal_government tribal_government }
+	cultures = { vlach }
+}
+
+# Croatian
+
+count_feudal_male_croatian = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 18
+	governments = { feudal_government tribal_government }
+	cultures = { croatian }
+}
+count_feudal_female_croatian = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 18
+	governments = { feudal_government tribal_government }
+	cultures = { croatian }
+}
+county_feudal_croatian = {
+	type = title
+	tier = county
+	priority = 18
+	governments = { feudal_government tribal_government }
+	cultures = { croatian }
+}

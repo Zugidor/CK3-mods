@@ -1,0 +1,121 @@
+historical_catholic_norse_conversion_decision = {
+	
+	picture = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
+	
+	major = no
+	
+	#ai_goal = yes
+	
+	ai_check_interval = 12
+	
+	title = "Christianise the Norse"
+	
+	desc = "For many years, our people have raided and traded with the nearby western isles and southern continent. These people fight fiercely and fear their singular God, where we do not fear our gods. Does this perhaps mean that the 'Victorious Christ' they speak of holds and grants greater strength? Be it to bow to Christ and His Vicar in Rome, or to simply prevent their clergy from pestering us in our lands, it seems clear that the Cross is the future for our people's faith."
+	
+	selection_tooltip = "The Norse people under your rule adopt Catholic Christianity"
+	
+    confirm_text = "Send for the Pope"
+	
+	is_shown = {
+		is_ruler = yes
+		has_culture_group = culture_group:north_germanic_group
+		NOT = { religion = religion:christianity_religion }
+		#Norse Paganism must not have been reformed.
+		religion:germanic_religion = {
+			any_faith = {
+				count = all
+				has_doctrine = unreformed_faith_doctrine
+			}
+		}
+	}
+	
+	is_valid = {
+		is_independent_ruler = yes
+	}
+	
+	is_valid_showing_failures_only = {
+		is_imprisoned = no
+		is_available_adult = yes
+		is_at_war = no
+		is_capable_adult = yes
+	}
+	
+	effect = {
+        set_character_faith_with_conversion = faith:catholic
+    }
+	
+	cost = {
+		piety = 500
+		gold = 100
+	}
+	
+	ai_potential = {
+		current_date >= 995.1.1
+		#always = yes
+	}
+
+	ai_will_do = {
+		base = 33
+	}
+}
+
+historical_catholic_westslav_conversion_decision = {
+	
+	picture = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
+	
+	major = no
+	
+	#ai_goal = yes
+	
+	ai_check_interval = 12
+	
+	title = "Christianise the West Slavs"
+	
+	desc = "For many years, our people have dealt with the Moravians and Franconians in both trade and war. Perhaps it is time for us to forge closer ties to our western neighbours, in return for their recognition of us as an independent and self-determining people. If the highest religious authority of the western world recognises our territory as a sovereign state, our people can only benefit from abandoning the old gods."
+	
+	selection_tooltip = "The West Slavic people under your rule adopt Catholic Christianity"
+	
+    confirm_text = "Send for the Pope"
+	
+	is_shown = {
+		is_ruler = yes
+		has_culture_group = culture_group:west_slavic_group
+		NOT = { religion = religion:christianity_religion }
+		#Slavic Paganism must not have been reformed.
+		religion:slavic_religion = {
+			any_faith = {
+				count = all
+				has_doctrine = unreformed_faith_doctrine
+			}
+		}
+	}
+	
+	is_valid = {
+		is_independent_ruler = yes
+	}
+	
+	is_valid_showing_failures_only = {
+		is_imprisoned = no
+		is_available_adult = yes
+		is_at_war = no
+		is_capable_adult = yes
+	}
+	
+	effect = {
+        set_character_faith_with_conversion = faith:catholic
+    }
+	
+	cost = {
+		piety = 500
+		gold = 100
+	}
+	
+	ai_potential = {
+		current_date >= 966.4.14
+		#always = yes
+	}
+
+	ai_will_do = {
+		base = 33
+	}
+}

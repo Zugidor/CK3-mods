@@ -1,0 +1,112 @@
+z_mood_macbeth = {
+	music = "file:/music/Z Immersive Music/Macbeth.mp3"
+	weight = 22
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_troll = {
+	music = "file:/music/Z Immersive Music/Troll.mp3"
+	weight = 23
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_intertwined = {
+	music = "file:/music/Z Immersive Music/Intertwined.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_kingdoms = {
+	music = "file:/music/Z Immersive Music/Kingdoms.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_kohcrusaders = {
+	music = "file:/music/Z Immersive Music/KoH - Crusaders.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_mb3 = {
+	music = "file:/music/Z Immersive Music/M&B 3.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_mb4 = {
+	music = "file:/music/Z Immersive Music/M&B 4.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_mb5 = {
+	music = "file:/music/Z Immersive Music/M&B 5.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_mb9 = {
+	music = "file:/music/Z Immersive Music/M&B 9.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_mb11 = {
+	music = "file:/music/Z Immersive Music/M&B 11.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_mb13 = {
+	music = "file:/music/Z Immersive Music/M&B 13.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_mb14 = {
+	music = "file:/music/Z Immersive Music/M&B 14.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_mb15 = {
+	music = "file:/music/Z Immersive Music/M&B 15.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_mb16 = {
+	music = "file:/music/Z Immersive Music/M&B 16.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_mb2invasion = {
+	music = "file:/music/Z Immersive Music/M&B2 - Invasion.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
+z_mood_veniveniemmanuel = {
+	music = "file:/music/Z Immersive Music/Veni Veni Emmanuel.mp3"
+	weight = 24
+	mood = yes
+	can_be_interrupted = no
+}
+
