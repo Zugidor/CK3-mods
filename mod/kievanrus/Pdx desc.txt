@@ -94,6 +94,8 @@ Queen -> Tsaritsa
 
 (Partial credit for Vlach changes: Steam user Gigachad) 
 
+• Added two new decisions: Gathering of Rus Princes and Recruit Nomad Host, for additional immersion for certain titles. Also, a new character background for Rus characters. (Credit: Steam user Gigachad for providing a lot of useful code) 
+
 
 Ironman? 
 
