@@ -5,5 +5,5 @@ tags={
 }
 name="Z Immersive Music"
 supported_version="1.4.*"
-path="D:/This PC Stuff/Documents/Paradox Interactive/Crusader Kings III/mod/zimmersivemusic"
+path="D:/This PC Stuff/Documents/Paradox Interactive/Crusader Kings III/mod/z_immersivemusic"
 remote_file_id="2238984920"
