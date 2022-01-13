@@ -1,0 +1,16 @@
+- Renames Byzantine Empire to Eastern Roman Empire  
+
+
+- Changes Empire's CoA to purple with double headed eagle  
+
+
+- Changes Ecumenical Patriarchate CoA colour scheme to yellow+white  
+
+
+- Changes Roman Empire colour from pink to true Roman Crimson  
+
+
+- Updates Any references to "Byzantine Empire" to "Eastern Roman Empire"  
+
+
+NOT Ironman compatible
