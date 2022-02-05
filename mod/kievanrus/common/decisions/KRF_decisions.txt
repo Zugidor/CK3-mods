@@ -49,7 +49,7 @@ rus_gathering_decision = {
 	}
 
 	ai_will_do = {
-		base = 35
+		base = 100
 	}
 }
 
@@ -65,19 +65,23 @@ nomads = {
 
 	is_shown = {
 		OR = {
-			has_title = title:k_ruthenia
-			has_title = title:k_hungary
-			has_title = title:k_bulgaria
-			has_title = title:e_byzantium
+			has_primary_title = title:k_ruthenia
+			has_primary_title = title:k_hungary
+			has_primary_title = title:k_bulgaria
+			has_primary_title = title:k_moldavia
+			has_primary_title = title:k_dacia
+			has_primary_title = title:k_opolye
 		}
 	}
 	
 	is_valid = {
 		OR = {
-			has_title = title:k_ruthenia
-			has_title = title:k_hungary
-			has_title = title:k_bulgaria
-			has_title = title:e_byzantium
+			has_primary_title = title:k_ruthenia
+			has_primary_title = title:k_hungary
+			has_primary_title = title:k_bulgaria
+			has_primary_title = title:k_moldavia
+			has_primary_title = title:k_dacia
+			has_primary_title = title:k_opolye
 		}
 		is_independent_ruler = yes
 	}
@@ -118,6 +122,6 @@ nomads = {
 	}
 
 	ai_will_do = {
-		base = 35
+		base = 100
 	}
 }

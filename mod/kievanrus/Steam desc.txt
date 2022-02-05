@@ -74,7 +74,7 @@ Queen -> Tsaritsa
 
 Feel free to ask questions, or add suggestions and feedback in the comments. Also Like and Favorite the mod if you like it, thanks!
 
-If the mod doesn't work from here, you can download the files directly from a steam workshop downloader site, and paste them into your CK3 mod folder.
+If the mod doesn't work from here, you can download the files directly from a steam workshop downloader site, and paste them into your CK3 mod folder, or download the Paradox mods version.
 
 [h2]Other Credits:[/h2]
 • The mods "coat of arms fix" and "Roman Fidelity" for helping me learn how to mod by example.
