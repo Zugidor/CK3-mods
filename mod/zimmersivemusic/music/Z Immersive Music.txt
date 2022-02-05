@@ -1,13 +1,13 @@
 z_mood_asimpsongcommon = {
-	music = "file:/sound/Z Immersive Music/A simple song for commoners.ogg"
-	weight = 15
+	music = "file:/sound/Z Immersive Music/A simple song for commoners.mp3"
+	weight = 20
 	mood = yes
 	can_be_interrupted = yes
 }
 
 z_mood_saladinjerusalem = {
-	music = "file:/sound/Z Immersive Music/Saladin Arrives At Jerusalem.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/Saladin Arrives At Jerusalem.mp3"
+	weight = 25
 	is_valid = {
 		religion = religion:islam_religion
 	}
@@ -16,8 +16,8 @@ z_mood_saladinjerusalem = {
 }
 
 z_mood_mb2empire = {
-	music = "file:/sound/Z Immersive Music/M&B2 - Empire.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/M&B2 - Empire.mp3"
+	weight = 25
 	is_valid = {
 		OR = {
 			has_title = title:e_byzantium
@@ -29,8 +29,8 @@ z_mood_mb2empire = {
 }
 
 z_mood_komnenos = {
-	music = "file:/sound/Z Immersive Music/Komnenos.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/Komnenos.mp3"
+	weight = 25
 	is_valid = {
 		OR = {
 			has_title = title:e_byzantium
@@ -42,15 +42,15 @@ z_mood_komnenos = {
 }
 
 z_mood_intaberna = {
-	music = "file:/sound/Z Immersive Music/In Taberna.ogg"
-	weight = 15
+	music = "file:/sound/Z Immersive Music/In Taberna.mp3"
+	weight = 20
 	mood = yes
 	can_be_interrupted = yes
 }
 
 z_mood_deusmisere = {
-	music = "file:/sound/Z Immersive Music/Deus Misere.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/Deus Misere.mp3"
+	weight = 25
 	is_valid = {
 		religion = religion:christianity_religion
 	}
@@ -59,8 +59,8 @@ z_mood_deusmisere = {
 }
 
 z_mood_byzantium = {
-	music = "file:/sound/Z Immersive Music/The Byzantine Empire.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/The Byzantine Empire.mp3"
+	weight = 25
 	is_valid = {
 		OR = {
 			has_title = title:e_byzantium
@@ -72,8 +72,8 @@ z_mood_byzantium = {
 }
 
 z_mood_legacyofrome = {
-	music = "file:/sound/Z Immersive Music/Legacy of Rome.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/Legacy of Rome.mp3"
+	weight = 25
 	is_valid = {
 		OR = {
 			has_title = title:e_byzantium
@@ -85,15 +85,15 @@ z_mood_legacyofrome = {
 }
 
 z_mood_ck2maintitle = {
-	music = "file:/sound/Z Immersive Music/CK2 Main Title.ogg"
-	weight = 15
+	music = "file:/sound/Z Immersive Music/CK2 Main Title.mp3"
+	weight = 20
 	mood = yes
 	can_be_interrupted = yes
 }
 
 z_mood_ascalon = {
-	music = "file:/sound/Z Immersive Music/Ascalon.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/Ascalon.mp3"
+	weight = 25
 	is_valid = {
 		religion = religion:christianity_religion
 	}
@@ -102,8 +102,8 @@ z_mood_ascalon = {
 }
 
 z_mood_sandsofarabia = {
-	music = "file:/sound/Z Immersive Music/sandsofarabia.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/sandsofarabia.mp3"
+	weight = 25
 	is_valid = {
 		religion = religion:islam_religion
 	}
@@ -112,8 +112,8 @@ z_mood_sandsofarabia = {
 }
 
 z_mood_imperia = {
-	music = "file:/sound/Z Immersive Music/imperia.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/imperia.mp3"
+	weight = 25
 	is_valid = {
 		OR = {
 			has_title = title:e_byzantium
@@ -125,8 +125,8 @@ z_mood_imperia = {
 }
 
 z_mood_burningthepast = {
-	music = "file:/sound/Z Immersive Music/burningthepast.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/burningthepast.mp3"
+	weight = 25
 	is_valid = {
 		religion = religion:christianity_religion
 	}
@@ -135,8 +135,8 @@ z_mood_burningthepast = {
 }
 
 z_mood_barbarians = {
-	music = "file:/sound/Z Immersive Music/Barbarians.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/Barbarians.mp3"
+	weight = 25
 	is_valid = {
 		is_at_war = yes
 	}
@@ -145,8 +145,8 @@ z_mood_barbarians = {
 }
 
 z_mood_deuslovult = {
-	music = "file:/sound/Z Immersive Music/Deus Lo Vult.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/Deus Lo Vult.mp3"
+	weight = 25
 	is_valid = {
 		religion = religion:christianity_religion
 	}
@@ -155,8 +155,8 @@ z_mood_deuslovult = {
 }
 
 z_mood_holdthegates = {
-	music = "file:/sound/Z Immersive Music/Hold The Gates.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/Hold The Gates.mp3"
+	weight = 25
 	is_valid = {
 		is_at_war = yes
 	}
@@ -165,8 +165,8 @@ z_mood_holdthegates = {
 }
 
 z_mood_hurwaste = {
-	music = "file:/sound/Z Immersive Music/hurricane wasteland.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/hurricane wasteland.mp3"
+	weight = 25
 	is_valid = {
 		OR = {
 			religion = religion:tengrism_religion
@@ -178,8 +178,8 @@ z_mood_hurwaste = {
 }
 
 z_mood_inchains = {
-	music = "file:/sound/Z Immersive Music/In Chains.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/In Chains.mp3"
+	weight = 25
 	is_valid = {
 		is_at_war = yes
 	}
@@ -188,8 +188,8 @@ z_mood_inchains = {
 }
 
 z_mood_intertwined = {
-	music = "file:/sound/Z Immersive Music/Intertwined.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/Intertwined.mp3"
+	weight = 25
 	is_valid = {
 		OR = {
 			religion = religion:slavic_religion
@@ -203,8 +203,8 @@ z_mood_intertwined = {
 }
 
 z_mood_kingdoms = {
-	music = "file:/sound/Z Immersive Music/Kingdoms.ogg"
-	weight = 25
+	music = "file:/sound/Z Immersive Music/Kingdoms.mp3"
+	weight = 30
 	is_valid = {
 		AND = {
 			is_at_war = yes
@@ -216,8 +216,8 @@ z_mood_kingdoms = {
 }
 
 z_mood_kohcrusaders = {
-	music = "file:/sound/Z Immersive Music/KoH - Crusaders.ogg"
-	weight = 25
+	music = "file:/sound/Z Immersive Music/KoH - Crusaders.mp3"
+	weight = 30
 	is_valid = {
 		AND = {
 			OR = {
@@ -232,8 +232,8 @@ z_mood_kohcrusaders = {
 }
 
 z_mood_mb3 = {
-	music = "file:/sound/Z Immersive Music/M&B 3.ogg"
-	weight = 25
+	music = "file:/sound/Z Immersive Music/M&B 3.mp3"
+	weight = 30
 	is_valid = {
 		AND = {
 			OR = {
@@ -250,8 +250,8 @@ z_mood_mb3 = {
 }
 
 z_mood_mb4 = {
-	music = "file:/sound/Z Immersive Music/M&B 4.ogg"
-	weight = 25
+	music = "file:/sound/Z Immersive Music/M&B 4.mp3"
+	weight = 30
 	is_valid = {
 		AND = {
 			NOT = { 
@@ -266,8 +266,8 @@ z_mood_mb4 = {
 }
 
 z_mood_mb5 = {
-	music = "file:/sound/Z Immersive Music/M&B 5.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/M&B 5.mp3"
+	weight = 25
 	is_valid = {
 		is_at_war = yes
 	}
@@ -276,8 +276,8 @@ z_mood_mb5 = {
 }
 
 z_mood_mb11 = {
-	music = "file:/sound/Z Immersive Music/M&B 11.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/M&B 11.mp3"
+	weight = 25
 	is_valid = {
 		is_at_war = yes
 	}
@@ -286,8 +286,8 @@ z_mood_mb11 = {
 }
 
 z_mood_mb13 = {
-	music = "file:/sound/Z Immersive Music/M&B 13.ogg"
-	weight = 25
+	music = "file:/sound/Z Immersive Music/M&B 13.mp3"
+	weight = 30
 	is_valid = {
 		AND = {
 			OR = {
@@ -304,8 +304,8 @@ z_mood_mb13 = {
 }
 
 z_mood_mb14 = {
-	music = "file:/sound/Z Immersive Music/M&B 14.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/M&B 14.mp3"
+	weight = 25
 	is_valid = {
 		is_at_war = yes
 	}
@@ -314,8 +314,8 @@ z_mood_mb14 = {
 }
 
 z_mood_mb15 = {
-	music = "file:/sound/Z Immersive Music/M&B 15.ogg"
-	weight = 25
+	music = "file:/sound/Z Immersive Music/M&B 15.mp3"
+	weight = 30
 	is_valid = {
 		AND = {
 			religion = religion:christianity_religion
@@ -327,8 +327,8 @@ z_mood_mb15 = {
 }
 
 z_mood_mb16 = {
-	music = "file:/sound/Z Immersive Music/M&B 16.ogg"
-	weight = 25
+	music = "file:/sound/Z Immersive Music/M&B 16.mp3"
+	weight = 30
 	is_valid = {
 		AND = {
 			religion = religion:christianity_religion
@@ -340,8 +340,8 @@ z_mood_mb16 = {
 }
 
 z_mood_mb2invasion = {
-	music = "file:/sound/Z Immersive Music/M&B2 - Invasion.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/M&B2 - Invasion.mp3"
+	weight = 25
 	is_valid = {
 		is_at_war = yes
 	}
@@ -350,8 +350,8 @@ z_mood_mb2invasion = {
 }
 
 z_mood_prepmach = {
-	music = "file:/sound/Z Immersive Music/Preparing the Machinery.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/Preparing the Machinery.mp3"
+	weight = 25
 	is_valid = {
 		is_at_war = yes
 	}
@@ -360,8 +360,8 @@ z_mood_prepmach = {
 }
 
 z_mood_solemn = {
-	music = "file:/sound/Z Immersive Music/Solemn.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/Solemn.mp3"
+	weight = 25
 	is_valid = {
 		is_at_war = yes
 	}
@@ -370,8 +370,8 @@ z_mood_solemn = {
 }
 
 z_mood_steppes = {
-	music = "file:/sound/Z Immersive Music/steppes of the nomads.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/steppes of the nomads.mp3"
+	weight = 25
 	is_valid = {
 		OR = {
 			religion = religion:tengrism_religion
@@ -383,8 +383,8 @@ z_mood_steppes = {
 }
 
 z_mood_asbysea = {
-	music = "file:/sound/Z Immersive Music/Total War Attila - Assault by Sea.ogg"
-	weight = 25
+	music = "file:/sound/Z Immersive Music/Total War Attila - Assault by Sea.mp3"
+	weight = 30
 	is_valid = {
 		AND = {
 			OR = { 
@@ -411,8 +411,8 @@ z_mood_asbysea = {
 }
 
 z_mood_firenice = {
-	music = "file:/sound/Z Immersive Music/Total War Attila - Fire and Ice.ogg"
-	weight = 25
+	music = "file:/sound/Z Immersive Music/Total War Attila - Fire and Ice.mp3"
+	weight = 30
 	is_valid = {
 		AND = {
 			OR = { 
@@ -439,8 +439,8 @@ z_mood_firenice = {
 }
 
 z_mood_rome = {
-	music = "file:/sound/Z Immersive Music/Total War Attila - Rome.ogg"
-	weight = 25
+	music = "file:/sound/Z Immersive Music/Total War Attila - Rome.mp3"
+	weight = 30
 	is_valid = {
 		AND = {
 			OR = {
@@ -455,8 +455,8 @@ z_mood_rome = {
 }
 
 z_mood_rome2 = {
-	music = "file:/sound/Z Immersive Music/Total War Rome 2 - Brave Romans.ogg"
-	weight = 25
+	music = "file:/sound/Z Immersive Music/Total War Rome 2 - Brave Romans.mp3"
+	weight = 30
 	is_valid = {
 		AND = {
 			OR = {
@@ -471,8 +471,8 @@ z_mood_rome2 = {
 }
 
 z_mood_troll = {
-	music = "file:/sound/Z Immersive Music/Troll.ogg"
-	weight = 20
+	music = "file:/sound/Z Immersive Music/Troll.mp3"
+	weight = 25
 	is_valid = {
 		OR = {
 			religion = religion:slavic_religion
@@ -486,8 +486,8 @@ z_mood_troll = {
 }
 
 z_mood_veniveniemmanuel = {
-	music = "file:/sound/Z Immersive Music/Veni Veni Emmanuel.ogg"
-	weight = 25
+	music = "file:/sound/Z Immersive Music/Veni Veni Emmanuel.mp3"
+	weight = 30
 	is_valid = {
 		AND = {
 			OR = {
