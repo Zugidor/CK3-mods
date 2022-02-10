@@ -1,9 +1,9 @@
-﻿# Accepted categories are: governments, cultures, culture_groups, faiths, religions
+﻿# Accepted categories are: governments, name_lists, heritages, faiths, religions
 # A Flavorization will apply if ALL specified categories have ANY of their entries
 # represented in the character/title
 # So for example:
 # governments = { feudal_government }
-# culture_groups = { mongolic_group central_germanic_group }
+# heritages = { mongolic_group central_germanic_group }
 # For this to apply a character MUST BE feudal, AND must also be EITHER altaic OR germanic
 # priority is used to determine priority, if they are the same then the LAST will be selected,
 # and honorifics will be prefered over landed titles. Default priority is 1
@@ -25,7 +25,7 @@ prince_male_roman = {
 	special = ruler_child
 	tier = kingdom
 	priority = 40
-	cultures = { roman }
+	name_lists = { name_list_roman }
 	governments = { feudal_government }
 	top_liege = no
 }
@@ -35,7 +35,7 @@ prince_female_roman = {
 	special = ruler_child
 	tier = kingdom
 	priority = 40
-	cultures = { roman }
+	name_lists = { name_list_roman }
 	governments = { feudal_government }
 	top_liege = no
 }
@@ -45,7 +45,7 @@ prince_male_roman_empire = {
 	special = ruler_child
 	tier = empire
 	priority = 40
-	cultures = { roman }
+	name_lists = { name_list_roman }
 	governments = { feudal_government }
 	top_liege = no
 }
@@ -55,7 +55,7 @@ prince_female_roman_empire = {
 	special = ruler_child
 	tier = empire
 	priority = 40
-	cultures = { roman }
+	name_lists = { name_list_roman }
 	governments = { feudal_government }
 	top_liege = no
 }
@@ -67,7 +67,7 @@ prince_male_iberian_group = {
 	special = ruler_child
 	tier = kingdom
 	priority = 40
-	culture_groups = { iberian_group }
+	heritages = { heritage_iberian }
 	governments = { feudal_government }
 	top_liege = no
 }
@@ -77,7 +77,7 @@ prince_female_iberian_group = {
 	special = ruler_child
 	tier = kingdom
 	priority = 40
-	culture_groups = { iberian_group }
+	heritages = { heritage_iberian }
 	governments = { feudal_government }
 	top_liege = no
 }
@@ -87,7 +87,7 @@ prince_male_iberian_group_empire = {
 	special = ruler_child
 	tier = empire
 	priority = 40
-	culture_groups = { iberian_group }
+	heritages = { heritage_iberian }
 	governments = { feudal_government }
 	top_liege = no
 }
@@ -97,7 +97,7 @@ prince_female_iberian_group_empire = {
 	special = ruler_child
 	tier = empire
 	priority = 40
-	culture_groups = { iberian_group }
+	heritages = { heritage_iberian }
 	governments = { feudal_government }
 	top_liege = no
 }
@@ -109,7 +109,7 @@ prince_male_iranian_group = {
 	special = ruler_child
 	tier = kingdom
 	priority = 40
-	culture_groups = { iranian_group }
+	heritages = { heritage_iranian }
 	top_liege = no
 }
 prince_female_iranian_group = {
@@ -118,7 +118,7 @@ prince_female_iranian_group = {
 	special = ruler_child
 	tier = kingdom
 	priority = 40
-	culture_groups = { iranian_group }
+	heritages = { heritage_iranian }
 	top_liege = no
 }
 prince_male_iranian_group_empire = {
@@ -127,7 +127,7 @@ prince_male_iranian_group_empire = {
 	special = ruler_child
 	tier = empire
 	priority = 40
-	culture_groups = { iranian_group }
+	heritages = { heritage_iranian }
 	top_liege = no
 }
 prince_female_iranian_group_empire = {
@@ -136,7 +136,7 @@ prince_female_iranian_group_empire = {
 	special = ruler_child
 	tier = empire
 	priority = 40
-	culture_groups = { iranian_group }
+	heritages = { heritage_iranian }
 	top_liege = no
 }
 
@@ -147,7 +147,7 @@ prince_male_dravidian_group = {
 	special = ruler_child
 	tier = kingdom
 	priority = 40
-	culture_groups = { dravidian_group indo_aryan_group }
+	heritages = { heritage_dravidian heritage_indo_aryan }
 	top_liege = no
 }
 prince_female_dravidian_group = {
@@ -156,7 +156,7 @@ prince_female_dravidian_group = {
 	special = ruler_child
 	tier = kingdom
 	priority = 40
-	culture_groups = { dravidian_group indo_aryan_group }
+	heritages = { heritage_dravidian heritage_indo_aryan }
 	top_liege = no
 }
 prince_male_dravidian_group_empire = {
@@ -165,7 +165,7 @@ prince_male_dravidian_group_empire = {
 	special = ruler_child
 	tier = empire
 	priority = 40
-	culture_groups = { dravidian_group indo_aryan_group }
+	heritages = { heritage_dravidian heritage_indo_aryan }
 	top_liege = no
 }
 prince_female_dravidian_group_empire = {
@@ -174,8 +174,49 @@ prince_female_dravidian_group_empire = {
 	special = ruler_child
 	tier = empire
 	priority = 40
-	culture_groups = { dravidian_group indo_aryan_group }
+	heritages = { heritage_dravidian heritage_indo_aryan }
 	top_liege = no
+}
+
+prince_muslim_male_dravidian_group = {
+	type = character
+	gender = male
+	special = ruler_child
+	tier = kingdom
+	priority = 41
+	heritages = { heritage_dravidian heritage_indo_aryan }
+	top_liege = no
+	religions = { islam_religion }
+}
+prince_muslim_female_dravidian_group = {
+	type = character
+	gender = female
+	special = ruler_child
+	tier = kingdom
+	priority = 41
+	heritages = { heritage_dravidian heritage_indo_aryan }
+	top_liege = no
+	religions = { islam_religion }
+}
+prince_muslim_male_dravidian_group_empire = {
+	type = character
+	gender = male
+	special = ruler_child
+	tier = empire
+	priority = 41
+	heritages = { heritage_dravidian heritage_indo_aryan }
+	top_liege = no
+	religions = { islam_religion }
+}
+prince_muslim_female_dravidian_group_empire = {
+	type = character
+	gender = female
+	special = ruler_child
+	tier = empire
+	priority = 41
+	heritages = { heritage_dravidian heritage_indo_aryan }
+	top_liege = no
+	religions = { islam_religion }
 }
 
 #countling = {
@@ -198,7 +239,7 @@ prince_female_dravidian_group_empire = {
 #	tier = empire
 #	
 #	governments = { feudal_government }
-#	culture_groups = { central_germanic_group }
+#	heritages = { heritage_central_germanic }
 #}
 empress_mother = {
 	type = character
@@ -226,7 +267,7 @@ dravidian_group_queen_mother = {
 	priority = 42
 	top_liege = no
 	governments = { feudal_government clan_government tribal_government }
-	culture_groups = { dravidian_group indo_aryan_group }
+	heritages = { heritage_dravidian heritage_indo_aryan }
 }
 
 #Boring Fallbacks, keep at bottom of file!

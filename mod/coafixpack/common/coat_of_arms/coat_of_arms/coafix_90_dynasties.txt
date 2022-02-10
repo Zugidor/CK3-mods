@@ -50,7 +50,7 @@
 }
 house_british_isles_wessex = 100072
 
-651 = { # Salian
+house_salian = { # Salian
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
 	color2 = "blue"

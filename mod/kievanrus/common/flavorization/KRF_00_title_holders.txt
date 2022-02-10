@@ -8,7 +8,7 @@ king_feudal_male_rus = {
 	tier = kingdom
 	priority = 47
 	governments = { feudal_government tribal_government }
-	cultures = { russian }
+	name_lists = { name_list_russian }
 }
 king_feudal_female_rus = {
 	type = character
@@ -17,14 +17,14 @@ king_feudal_female_rus = {
 	tier = kingdom
 	priority = 47
 	governments = { feudal_government tribal_government }
-	cultures = { russian }
+	name_lists = { name_list_russian }
 }
 kingdom_feudal_rus = {
 	type = title
 	tier = kingdom
 	priority = 47
 	governments = { feudal_government tribal_government }
-	cultures = { russian }
+	name_lists = { name_list_russian }
 }
 
 # Bulgarian
@@ -36,7 +36,7 @@ king_feudal_male_bulgarian = {
 	tier = kingdom
 	priority = 47
 	governments = { feudal_government tribal_government }
-	cultures = { bulgarian }
+	name_lists = { name_list_bulgarian }
 }
 king_feudal_female_bulgarian = {
 	type = character
@@ -45,14 +45,14 @@ king_feudal_female_bulgarian = {
 	tier = kingdom
 	priority = 47
 	governments = { feudal_government tribal_government }
-	cultures = { bulgarian }
+	name_lists = { name_list_bulgarian }
 }
 kingdom_feudal_bulgarian = {
 	type = title
 	tier = kingdom
 	priority = 47
 	governments = { feudal_government tribal_government }
-	cultures = { bulgarian }
+	name_lists = { name_list_bulgarian }
 }
 
 # Serbian
@@ -64,7 +64,7 @@ count_feudal_male_serbian = {
 	tier = county
 	priority = 18
 	governments = { feudal_government tribal_government }
-	cultures = { serbian }
+	name_lists = { name_list_serbian }
 }
 count_feudal_female_serbian = {
 	type = character
@@ -73,14 +73,14 @@ count_feudal_female_serbian = {
 	tier = county
 	priority = 18
 	governments = { feudal_government tribal_government }
-	cultures = { serbian }
+	name_lists = { name_list_serbian }
 }
 county_feudal_serbian = {
 	type = title
 	tier = county
 	priority = 18
 	governments = { feudal_government tribal_government }
-	cultures = { serbian }
+	name_lists = { name_list_serbian }
 }
 duke_feudal_male_serbian = {
 	type = character
@@ -89,7 +89,7 @@ duke_feudal_male_serbian = {
 	tier = duchy
 	priority = 30
 	governments = { feudal_government tribal_government }
-	cultures = { serbian }
+	name_lists = { name_list_serbian }
 }
 duke_feudal_female_serbian = {
 	type = character
@@ -98,14 +98,14 @@ duke_feudal_female_serbian = {
 	tier = duchy
 	priority = 30
 	governments = { feudal_government tribal_government }
-	cultures = { serbian }
+	name_lists = { name_list_serbian }
 }
 duchy_feudal_serbian = {
 	type = title
 	tier = duchy
 	priority = 30
 	governments = { feudal_government tribal_government }
-	cultures = { serbian }
+	name_lists = { name_list_serbian }
 }
 
 # Vlach
@@ -117,7 +117,7 @@ duke_feudal_male_vlach = {
 	tier = duchy
 	priority = 27
 	governments = { feudal_government tribal_government }
-	cultures = { vlach }
+	name_lists = { name_list_vlach }
 }
 duke_feudal_female_vlach = {
 	type = character
@@ -126,14 +126,14 @@ duke_feudal_female_vlach = {
 	tier = duchy
 	priority = 27
 	governments = { feudal_government tribal_government }
-	cultures = { vlach }
+	name_lists = { name_list_vlach }
 }
 duchy_feudal_vlach = {
 	type = title
 	tier = duchy
 	priority = 27
 	governments = { feudal_government tribal_government }
-	cultures = { vlach }
+	name_lists = { name_list_vlach }
 }
 king_feudal_male_vlach = {
 	type = character
@@ -142,7 +142,7 @@ king_feudal_male_vlach = {
 	tier = kingdom
 	priority = 47
 	governments = { feudal_government tribal_government }
-	cultures = { vlach }
+	name_lists = { name_list_vlach }
 }
 king_feudal_female_vlach = {
 	type = character
@@ -151,14 +151,14 @@ king_feudal_female_vlach = {
 	tier = kingdom
 	priority = 47
 	governments = { feudal_government tribal_government }
-	cultures = { vlach }
+	name_lists = { name_list_vlach }
 }
 kingdom_feudal_vlach = {
 	type = title
 	tier = kingdom
 	priority = 47
 	governments = { feudal_government tribal_government }
-	cultures = { vlach }
+	name_lists = { name_list_vlach }
 }
 
 # Croatian
@@ -170,7 +170,7 @@ count_feudal_male_croatian = {
 	tier = county
 	priority = 18
 	governments = { feudal_government tribal_government }
-	cultures = { croatian }
+	name_lists = { name_list_croatian }
 }
 count_feudal_female_croatian = {
 	type = character
@@ -179,12 +179,12 @@ count_feudal_female_croatian = {
 	tier = county
 	priority = 18
 	governments = { feudal_government tribal_government }
-	cultures = { croatian }
+	name_lists = { name_list_croatian }
 }
 county_feudal_croatian = {
 	type = title
 	tier = county
 	priority = 18
 	governments = { feudal_government tribal_government }
-	cultures = { croatian }
+	name_lists = { name_list_croatian }
 }
