@@ -9,9 +9,15 @@
 	}
 	text = {
 		trigger = {
-			culture = { has_cultural_pillar = language_east_slavic }
+			culture = { has_name_list = name_list_russian }
 		}
 		localization_key = knight_bogatyr
+	}
+	text = {
+		trigger = {
+			culture = { has_cultural_pillar = language_east_slavic }
+		}
+		localization_key = knight_boyar
 	}
 	text = {
 		trigger = {

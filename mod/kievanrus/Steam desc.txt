@@ -22,7 +22,8 @@
 - Prince (Empire heir) -> Tsarevich
 - Princess (Empire heiress) -> Tsarevna
 ^ Credit: Steam User jojo26123 for the ideas of improving the title holder names, changing Ruthenia to Kiev, and adding the new decision.
-• Changed the names of East Slavic culture knights to "Bogatyr". (credit: Steam user Riml121)
+• Changed the names of Rus culture knights to "Bogatyr". (credit: Steam user Riml121)
+• Changed the names of all other East Slavic language cultures' knights to "Boyar". (partial credit: Steam user InΔmatus)
 • Changed the barony, county and duchy of "Moskva" to "Moscow" as the proper exonym in English.
 • Changed additional cultural titles of some South Slavs by request and for extra historical accuracy:
 - Vlach:
@@ -50,8 +51,8 @@ Queen -> Tsaritsa
 (Partial credit for Vlach changes: Steam user Gigachad)
 • Added two new decisions: Gathering of Rus Princes and Recruit Nomad Host, for additional immersion for certain titles. Also, a new character background for Rus characters. (Credit: Steam user Gigachad for providing a lot of useful code)
 
-[h1]Ironman?[/h1]
-• Unfortunately, this mod changes the checksum and is therefore NOT ironman compatible .
+[h1]Ironman/Achievements?[/h1]
+• Unfortunately, this mod changes the checksum and is therefore NOT ironman/achievement compatible.
 
 [h1]Compatibility?[/h1]
 • This mod should be fully compatible with most non-overhaul mods.
