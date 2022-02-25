@@ -18,7 +18,7 @@ historical_catholic_norse_conversion_decision = {
 	
 	is_shown = {
 		is_ruler = yes
-		has_culture_group = culture_group:north_germanic_group
+		culture = { has_cultural_pillar = heritage_north_germanic }
 		NOT = { religion = religion:christianity_religion }
 		#Norse Paganism must not have been reformed.
 		religion:germanic_religion = {
@@ -79,7 +79,7 @@ historical_catholic_westslav_conversion_decision = {
 	
 	is_shown = {
 		is_ruler = yes
-		has_culture_group = culture_group:west_slavic_group
+		culture = { has_cultural_pillar = heritage_west_slavic }
 		NOT = { religion = religion:christianity_religion }
 		#Slavic Paganism must not have been reformed.
 		religion:slavic_religion = {

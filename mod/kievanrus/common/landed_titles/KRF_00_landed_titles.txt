@@ -9,7 +9,7 @@ e_russia = {	#Kievan Rus
 	ai_primary_priority = {
 		if = {
 			limit = {
-				culture_group = culture_group:east_slavic_group
+				culture = { has_cultural_pillar = heritage_east_slavic }
 			}
 			add = @correct_culture_primary_score
 		}
@@ -31,7 +31,7 @@ e_russia = {	#Kievan Rus
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture_group = culture_group:east_slavic_group
+					culture = { has_cultural_pillar = heritage_east_slavic }
 				}
 				add = @better_than_the_alternatives_score
 			}
@@ -576,7 +576,7 @@ e_russia = {	#Kievan Rus
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture_group = culture_group:east_slavic_group
+					culture = { has_cultural_pillar = heritage_east_slavic }
 				}
 				add = @better_than_the_alternatives_score
 			}
@@ -1333,7 +1333,7 @@ e_russia = {	#Kievan Rus
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture_group = culture_group:east_slavic_group
+					culture = { has_cultural_pillar = heritage_east_slavic }
 				}
 				add = @better_than_the_alternatives_score
 			}
@@ -1744,7 +1744,7 @@ e_russia = {	#Kievan Rus
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture_group = culture_group:east_slavic_group
+					culture = { has_cultural_pillar = heritage_east_slavic }
 				}
 				add = @better_than_the_alternatives_score
 			}
@@ -2440,7 +2440,7 @@ e_russia = {	#Kievan Rus
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture_group = culture_group:east_slavic_group
+					culture = { has_cultural_pillar = heritage_east_slavic }
 				}
 				add = @better_than_the_alternatives_score
 			}
@@ -2865,7 +2865,7 @@ e_russia = {	#Kievan Rus
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture_group = culture_group:east_slavic_group
+					culture = { has_cultural_pillar = heritage_east_slavic }
 				}
 				add = @better_than_the_alternatives_score
 			}
