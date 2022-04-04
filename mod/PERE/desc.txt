@@ -1,3 +1,11 @@
+Byzantine Empire -> Eastern Roman Empire
+Byz CoA -> purple with double headed eagle
+Ecumenical Patriarchate CoA colours -> yellow+white
+Pink Rome -> Red Rome
+NOT Ironman compatible
+
+----------------------------------------------------------------------------------------------------
+
 - Renames Byzantine Empire to Eastern Roman Empire
 - Changes Empire's CoA to purple with double headed eagle
 - Changes Ecumenical Patriarchate CoA colour scheme to yellow+white
