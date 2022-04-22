@@ -50,6 +50,12 @@ King -> Tsar
 Queen -> Tsaritsa
 (Partial credit for Vlach changes: Steam user Gigachad)
 • Added two new decisions: Gathering of Rus Princes and Recruit Nomad Host, for additional immersion for certain titles. Also, a new character background for Rus characters. (Credit: Steam user Gigachad for providing a lot of useful code)
+[h2]Game version 1.5.* changes[/h2]
+• Moved Galicia-Volhynia from West Slavia to Kievan Rus
+• Moved Pomerania from Baltic Empire to West Slavia
+• Improved mod compatibility
+• Resolved lingering culture bugs due to pre-1.5 code
+(Large credit to Steam user Zarays)
 
 [h1]Ironman/Achievements?[/h1]
 • Unfortunately, this mod changes the checksum and is therefore NOT ironman/achievement compatible.
