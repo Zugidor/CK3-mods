@@ -9,7 +9,7 @@
 
 [h1]Is that all?[/h1]
 • Other changes include renaming White Rus' to Polotsk (Credit to Steam User YuriVII). I tried my hand at localising the mod in other languages but it may not be as accurate or grammatically correct as in English.
-• A new decision called "Christianise the Rus" has been added which becomes available to all non-Christian independent Rus rulers (AI takes it from 988 onwards). This allows the AI to adopt Orthodoxy as opposed to Kabarism/Paganism or being holy warred to extinction.
+• A new decision called "Christianise the Rus" has been added which becomes available to all non-Christian independent Rus rulers (AI takes it from 988 onwards). This allows the AI to adopt Orthodoxy as opposed to Kabarism/Paganism or being holy warred to extinction. The decision becomes "Christianise the East Slavs" for Rus-divergent or East Slavic hybrid cultures.
 • "Ruthenia" has been renamed to "Kyiv" due to common obscurity and confusion around the name of "Ruthenia" which is just Latinised "Rus". Additionally, the Rus cultural title holders and heirs of Kingdoms and Counties have been changed as follows for cultural and historical accuracy:
 - Grand Prince (Duke) -> Prince
 - Grand Princess (Duchess) -> Princess
@@ -49,13 +49,13 @@ Kingdom -> Tsardom
 King -> Tsar
 Queen -> Tsaritsa
 (Partial credit for Vlach changes: Steam user Gigachad)
-• Added two new decisions: Gathering of Rus Princes and Recruit Nomad Host, for additional immersion for certain titles. Also, a new character background for Rus characters. (Credit: Steam user Gigachad for providing a lot of useful code)
-[h2]Game version 1.5.* changes[/h2]
+• Added two new decisions: Gathering of Rus Princes and Recruit Nomad Host, for additional immersion for certain titles. Also, a new character background for Rus characters. (Credit: Steam user [url=https://steamcommunity.com/profiles/76561199088186776]Gigachad[/url] for providing a lot of useful code)
+[h2]Game version 1.5 changes[/h2]
 • Moved Galicia-Volhynia from West Slavia to Kievan Rus
 • Moved Pomerania from Baltic Empire to West Slavia
 • Improved mod compatibility
 • Resolved lingering culture bugs due to pre-1.5 code
-(Large credit to Steam user Zarays)
+(Large credit to Steam user [url=https://steamcommunity.com/profiles/76561198833910636]Zarays[/url])
 
 [h1]Ironman/Achievements?[/h1]
 • Unfortunately, this mod changes the checksum and is therefore NOT ironman/achievement compatible.
@@ -85,4 +85,4 @@ If the mod doesn't work from here, you can download the files directly from a st
 
 [h2]Other Credits:[/h2]
 • The mods "coat of arms fix" and "Roman Fidelity" for helping me learn how to mod by example.
-• Steam user "Warlock Engineer" for giving me a helpful suggestion on using the override system.
+• Steam user [url=https://steamcommunity.com/profiles/76561198077646536]Warlock Engineer[/url] for giving me a helpful suggestion on using the override system.

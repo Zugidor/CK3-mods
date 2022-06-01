@@ -7,6 +7,6 @@ tags={
 	"Map"
 }
 name="Kievan Rus fix"
-supported_version="1.5.*"
-path="D:/This PC Stuff/Documents/Paradox Interactive/Crusader Kings III/mod/kievanrus"
+supported_version="1.6.*"
+path="C:/Paradox Interactive/Crusader Kings III/mod/kievanrus"
 remote_file_id="2218355435"

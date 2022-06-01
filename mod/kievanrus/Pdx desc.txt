@@ -12,7 +12,7 @@ WHY?
 
 IS THAT ALL? 
 • Other changes include renaming White Rus' to Polotsk (Credit to Steam User YuriVII). I tried my hand at localising the mod in other languages but it may not be as accurate or grammatically correct as in English. 
-• A new decision called "Christianise the Rus" has been added which becomes available to all non-Christian independent Rus rulers (AI takes it from 988 onwards). This allows the AI to adopt Orthodoxy as opposed to Kabarism/Paganism or being holy warred to extinction. 
+• A new decision called "Christianise the Rus" has been added which becomes available to all non-Christian independent Rus rulers (AI takes it from 988 onwards). This allows the AI to adopt Orthodoxy as opposed to Kabarism/Paganism or being holy warred to extinction. The decision becomes "Christianise the East Slavs" for Rus-divergent or East Slavic hybrid cultures.
 • "Ruthenia" has been renamed to "Kyiv" due to common obscurity and confusion around the name of "Ruthenia" which is just Latinised "Rus". Additionally, the Rus cultural title holders and heirs of Kingdoms and Counties have been changed as follows for cultural and historical accuracy: 
 - Grand Prince (Duke) -> Prince 
 - Grand Princess (Duchess) -> Princess 
@@ -53,7 +53,8 @@ King -> Tsar
 Queen -> Tsaritsa 
 (Partial credit for Vlach changes: Steam user Gigachad) 
 • Added two new decisions: Gathering of Rus Princes and Recruit Nomad Host, for additional immersion for certain titles. Also, a new character background for Rus characters. (Credit: Steam user Gigachad for providing a lot of useful code) 
-GAME VERSION 1.5.* CHANGES
+
+GAME VERSION 1.5 CHANGES
 • Moved Galicia-Volhynia from West Slavia to Kievan Rus
 • Moved Pomerania from Baltic Empire to West Slavia
 • Improved mod compatibility

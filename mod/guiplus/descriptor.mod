@@ -4,5 +4,5 @@ tags={
 	"Portraits"
 }
 name="GUI Plus"
-supported_version="1.5.*"
+supported_version="1.6.*"
 remote_file_id="2510561790"

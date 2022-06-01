@@ -4,5 +4,5 @@ tags={
 	"Sound"
 }
 name="Z Immersive Music"
-supported_version="1.5.*"
+supported_version="1.6.*"
 remote_file_id="2238984920"
