@@ -1,6 +1,14 @@
 ﻿l_german:
 
 # Rus
+ baron_republic_male_rus:0 "Posadnist"
+ baron_republic_female_rus:0 "Posadnistin"
+ baron_feudal_male_rus:0 "Boyar"
+ baron_feudal_female_rus:0 "Boyarin"
+ barony_feudal_rus:0 "Volostentum"
+ count_feudal_male_rus:0 "Namestnist"
+ count_feudal_female_rus:0 "Namestnistin"
+ county_feudal_rus:0 "Bezirk"
  king_feudal_male_rus:0 "Großfürst"
  king_feudal_female_rus:0 "Großfürstin"
  kingdom_feudal_rus:0 "Großfürstentum"

@@ -25,6 +25,13 @@ IS THAT ALL?
 - Prince (Empire heir) -> Tsarevich 
 - Princess (Empire heiress) -> Tsarevna 
 ^ Credit: Steam User jojo26123 for the ideas of improving the title holder names, changing Ruthenia to Kiev, and adding the new decision. 
+UPDATE (2022/01/10):
+- Mayor -> Posadnik/Posadnitsa
+- Baron/Baroness -> Boyar/Boyaress
+- Barony -> Volost
+- Count/Countess -> Namestnik/Namestnitsa
+- Improved Russian localisation (Русaчск/Русaчи -> Русичи/Русичск, Графство -> Уéзд)
+^ Credit: Steam User LawfulNeut
 • Changed the names of Rus culture knights to "Bogatyr". (credit: Steam user Riml121)
 • Changed the names of all other East Slavic language cultures' knights to "Boyar". (partial credit: Steam user InΔmatus) 
 • Changed the barony, county and duchy of "Moskva" to "Moscow" as the proper exonym in English.

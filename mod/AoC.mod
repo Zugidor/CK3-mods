@@ -6,6 +6,6 @@ tags={
 	"Religion"
 }
 name="Adoption of Catholicism"
-supported_version="1.6.*"
+supported_version="1.8.*"
 path="C:/Paradox Interactive/Crusader Kings III/mod/AoC"
 remote_file_id="2377747810"

@@ -1,6 +1,14 @@
 ﻿l_spanish:
 
 # Rus
+ baron_republic_male_rus:0 "Posadne"
+ baron_republic_female_rus:0 "Posadnesa"
+ baron_feudal_male_rus:0 "Boyar"
+ baron_feudal_female_rus:0 "Boyaresa"
+ barony_feudal_rus:0 "Volosto"
+ count_feudal_male_rus:0 "Namstne"
+ count_feudal_female_rus:0 "Namestnesa"
+ county_feudal_rus:0 "Condado"
  king_feudal_male_rus:0 "Gran príncipe"
  king_feudal_female_rus:0 "Gran princesa"
  kingdom_feudal_rus:0 "Gran principado"

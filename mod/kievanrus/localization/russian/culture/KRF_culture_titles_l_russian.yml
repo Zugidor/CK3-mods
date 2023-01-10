@@ -1,6 +1,14 @@
 ﻿l_russian:
 
 # Rus
+ baron_republic_male_rus:0 "Посадник"
+ baron_republic_female_rus:0 "Посадница"
+ baron_feudal_male_rus:0 "Боярин"
+ baron_feudal_female_rus:0 "Боярина"
+ barony_feudal_rus:0 "Волость"
+ count_feudal_male_rus:0 "Наместник"
+ count_feudal_female_rus:0 "Наместница"
+ county_feudal_rus:0 "Уéзд"
  king_feudal_male_rus:0 "Великий князь"
  king_feudal_female_rus:0 "Великая княгиня"
  kingdom_feudal_rus:0 "Великое княжество"

@@ -530,6 +530,46 @@
  emperor_viceroyalty_female_byzantine_group:0 "Grand Exarchessa"
  empire_viceroyalty_byzantine_group:0 "Grand Exarchate"
 
+# Georgians, by Ace (Muslim Enhancements)
+ baron_male_georgian_group:0 "Baroni"
+ baron_female_georgian_group:0 "Baronesa"
+ barony_georgian_group:0 "Baronia"
+ count_male_georgian_group:0 "Grapi"
+ count_female_georgian_group:0 "Grapinia"
+ county_georgian_group:0 "Samplobelo"
+ duke_male_georgian_group:0 "Hertsogi"
+ duke_female_georgian_group:0 "Hertsoginia"
+ duchy_georgian_group:0 "Sahertsogo"
+ king_male_georgian_group:0 "Mepe"
+ king_female_georgian_group:0 "Dedopali"
+ kingdom_georgian_group:0 "Samepo"
+ emperor_male_georgian_group:0 "Imp’erat’ori"
+ emperor_female_georgian_group:0 "Imp’erat’ritsa"
+
+ duke_feudal_male_prince_georgian:0 "P’rintsi"
+ duke_feudal_female_prince_georgian:0 "P’rintsesa"
+ duchy_feudal_prince_georgian:0 "Kveq'ana"
+
+# Armenians, by Ace (Muslim Enhancements)
+ baron_male_armenian_group:0 "Barone"
+ baron_female_armenian_group:0 "Baronuhi"
+ barony_armenian_group:0 "Baronia"
+ count_male_armenian_group:0 "Koms"
+ count_female_armenian_group:0 "Komsuhi"
+ county_armenian_group:0 "Kom'sut'yun"
+ duke_male_armenian_group:0 "Dukas"
+ duke_female_armenian_group:0 "Duk'suhi"
+ duchy_armenian_group:0 "Duk'sut'yun"
+ king_male_armenian_group:0 "Tagavor"
+ king_female_armenian_group:0 "Taguhi"
+ kingdom_armenian_group:0 "Tagavorut'yun"
+ emperor_male_armenian_group:0 "Kaysr"
+ emperor_female_armenian_group:0 "Kaysruhi"
+
+ duke_feudal_male_prince_armenian:0 "Ishkhan"
+ duke_feudal_female_prince_armenian:0 "Ark'ayadustr"
+ duchy_feudal_prince_armenian:0 "Ishkhanut'yun"
+ 
 ### German ###
 # Feudal / Tribal 
  emperor_feudal_male_german:0 "Kaiser"
@@ -643,7 +683,7 @@
  empire_feudal_russian:0 "Tsardom"
 
 ### Arabic ###
-# Feudal / Clan / Tribal 
+# Feudal / Clan 
  baron_feudal_male_arabic_group:1 "Wālī"
  baron_feudal_female_arabic_group:1 "Wālīa"
  barony_feudal_arabic_group:1 "Wilāyah"
@@ -662,24 +702,44 @@
  emperor_feudal_male_arabic_group:1 "Malik al-Muazzam"
  emperor_feudal_female_arabic_group:1 "Malika al-Muazzama"
  empire_feudal_arabic_group:0 "Empire"
+ emperor_feudal_muslim_male_arabic_group:1 "Malik al-Muazzam"
+ emperor_feudal_muslim_female_arabic_group:1 "Malika al-Muazzama"
+ empire_feudal_muslim_arabic_group:0 "Empire"
+
+# Tribal 
+ baron_tribal_male_arabic_group:1 "Zaeim"
+ baron_tribal_female_arabic_group:1 "Zaeim"
+ barony_tribal_arabic_group:1 "Qarya"
+ count_tribal_male_arabic_group:0 "Quaid"
+ count_tribal_female_arabic_group:0 "Quaida"
+ county_tribal_arabic_group:0 "Balad"
+ duke_tribal_male_arabic_group:0 "Wakil"
+ duke_tribal_female_arabic_group:0 "Wakil"
+ duchy_tribal_arabic_group:0 "Etihad"
+ king_tribal_male_arabic_group:1 "Rayyis"
+ king_tribal_female_arabic_group:1 "Rayyisa"
+ kingdom_tribal_arabic_group:1 "Siyada"
+ emperor_tribal_male_arabic_group:1 "Malik al-Muazzam"
+ emperor_tribal_female_arabic_group:1 "Malika al-Muazzama"
+ empire_tribal_arabic_group:0 "Empire"
 
 # Republic 
  count_republic_male_arabic_group:0 "Wali"
  count_republic_female_arabic_group:0 "Wâlia"
  duke_republic_male_arabic_group:0 "Wali-Emir"
- duke_republic_female_arabic_group:0 "Wâlia-Emir"
+ duke_republic_female_arabic_group:0 "Wâlia-Emira"
  king_republic_male_arabic_group:0 "Wali-Malik"
- king_republic_female_arabic_group:0 "Wâlia-Malik"
+ king_republic_female_arabic_group:0 "Wâlia-Malika"
 
 ### Turkish ###
 # Feudal / Clan 
  baron_feudal_male_turkish:1 "Agha"
  baron_feudal_female_turkish:1 "Hanim"
  barony_feudal_turkish:1 "Timariot"
- count_feudal_male_turkish:1 "Beg"
+ count_feudal_male_turkish:1 "Bey"
  count_feudal_female_turkish:1 "Begum"
  county_feudal_turkish:0 "Beylik"
- duke_feudal_male_turkish:1 "Atabeg"
+ duke_feudal_male_turkish:1 "Atabey"
  duke_feudal_female_turkish:1 "Atabegum"
  duchy_feudal_turkish:1 "Atabegate"
  king_feudal_male_turkish:0 "Sultan"
@@ -725,24 +785,6 @@
  kingdom_feudal_muslim_iranian_group:0 "Grand Amirate"
  # Muslim Iranian Empire titles are the same as non-Muslim Iranian Imperial titles
 
- ### Islamic Clan Generic ###
- #Default Clan tiers
- baron_islamic_clan_male:0 "$baron_feudal_male_arabic_group$"
- baron_islamic_clan_female:0 "$baron_feudal_female_arabic_group$"
- barony_islamic_clan:0 "$barony_feudal_arabic_group$"
- count_islamic_clan_male:0 "$count_feudal_male_arabic_group$"
- count_islamic_clan_female:0 "$count_feudal_female_arabic_group$"
- county_islamic_clan:0 "$county_feudal_arabic_group$"
- duke_islamic_clan_male:0 "$duke_feudal_male_arabic_group$"
- duke_islamic_clan_female:0 "$duke_feudal_female_arabic_group$"
- duchy_islamic_clan:0 "$duchy_feudal_arabic_group$"
- king_islamic_clan_male:0 "$king_feudal_muslim_male_arabic_group$"
- king_islamic_clan_female:0 "$king_feudal_muslim_female_arabic_group$"
- kingdom_islamic_clan:0 "$kingdom_feudal_muslim_arabic_group$"
- emperor_islamic_clan_male:0 "$emperor_feudal_male_arabic_group$"
- emperor_islamic_clan_female:0 "$emperor_feudal_female_arabic_group$"
- empire_islamic_clan:0 "$empire_feudal_arabic_group$"
-
 ### Sogdian ###
 # Feudal / Clan 
  duke_feudal_male_sogdian:0 "Ikhshid"
@@ -766,7 +808,7 @@
  empire_feudal_altaic_group:0 "Khaganate"
 
 ### Dravidian / Indo-Aryan ###
-# Feudal / Clan / Tribal 
+# Feudal / Tribal 
  baron_feudal_male_dravidian_group:0 "Damapati"
  baron_feudal_female_dravidian_group:0 "Damapatni"
  barony_feudal_dravidian_group:0 "Dama"
@@ -786,6 +828,59 @@
  mahasamanta_female:0 "Mahasamanta"
  mahasamantadhipati:0 "Mahasamantadhipati"
  mahasamantadhipati_female:0 "Mahasamantadhipati"
+# Clan / Iqta, by Ace (Muslim Enhancements)
+ baron_islamic_male_dravidian_group:0 "Sarkar"
+ baron_islamic_female_dravidian_group:0 "Begum"
+ barony_islamic_dravidian_group:0 "Haqumat"
+ count_islamic_male_dravidian_group:0 "Sardar"
+ count_islamic_female_dravidian_group:0 "Khatun"
+ county_islamic_dravidian_group:0 "Dawlat"
+ duke_islamic_male_dravidian_group:0 "Raja"
+ duke_islamic_female_dravidian_group:0 "Rani"
+ duchy_islamic_dravidian_group:0 "Raj"
+ king_islamic_male_dravidian_group:0 "Maharaja"
+ kingdom_islamic_dravidian_group:0 "Mamlikat"
+ king_islamic_female_dravidian_group:0 "Maharani"
+ emperor_islamic_male_dravidian_group:0 "Shahanshah"
+ emperor_islamic_female_dravidian_group:0 "Maharani"
+
+ ### Islamic Clan Generic ###
+ #Default Clan tiers
+ baron_islamic_clan_male:0 "$baron_feudal_male_arabic_group$"
+ baron_islamic_clan_female:0 "$baron_feudal_female_arabic_group$"
+ barony_islamic_clan:0 "$barony_feudal_arabic_group$"
+ count_islamic_clan_male:0 "$count_feudal_male_arabic_group$"
+ count_islamic_clan_female:0 "$count_feudal_female_arabic_group$"
+ county_islamic_clan:0 "$county_feudal_arabic_group$"
+ duke_islamic_clan_male:0 "$duke_feudal_male_arabic_group$"
+ duke_islamic_clan_female:0 "$duke_feudal_female_arabic_group$"
+ duchy_islamic_clan:0 "$duchy_feudal_arabic_group$"
+ king_islamic_clan_male:0 "$king_feudal_muslim_male_arabic_group$"
+ king_islamic_clan_female:0 "$king_feudal_muslim_female_arabic_group$"
+ kingdom_islamic_clan:0 "$kingdom_feudal_muslim_arabic_group$"
+ emperor_islamic_clan_male:0 "$emperor_feudal_male_arabic_group$"
+ emperor_islamic_clan_female:0 "$emperor_feudal_female_arabic_group$"
+ empire_islamic_clan:0 "$empire_feudal_arabic_group$"
+
+# Telugus, by Ace (Muslim Enhancements)
+ baron_male_telugu_group:0 "Dalapati"
+ baron_female_telugu_group:0 "Mukhyuralu"
+ barony_telugu_group:0 "Bhumulu"
+ count_male_telugu_group:0 "Prabhuvu"
+ count_female_telugu_group:0 "Stri"
+ county_telugu_group:0 "Rastram"
+ duke_male_telugu_group:0 "Yuvaraju"
+ duke_female_telugu_group:0 "Yuvarani"
+ duchy_telugu_group:0 "Prantam"
+ king_male_telugu_group:0 "Raju"
+ king_female_telugu_group:0 "Rani"
+ kingdom_telugu_group:0 "Rajyaṁ"
+ emperor_male_telugu_group:0 "Chakravarti"
+ emperor_female_telugu_group:0 "Samrajni"
+ empire_telugu_group:0 "Samrajyam"
+ duke_feudal_male_prince_telugu:0 "Adhineta"
+ duke_feudal_female_prince_telugu:0 "Mahila"
+ duchy_feudal_prince_telugu:0 "Prantam"
 
  ###Muslim Dravidian / Indo-Aryan ###
  # Feudal / Clan / Tribal 
@@ -801,7 +896,7 @@
  emperor_feudal_muslim_female_dravidian_group:1 "Shahbanu"
  empire_feudal_muslim_dravidian_group:0 "$empire_feudal_arabic_group$"
 
-### GUANCHE (Canary Islands) ###
+ ### GUANCHE (Canary Islands) ###
  duchy_guanche:0 "Menceyo"
  kingdom_guanche:0 "High Menceyo"
  count_male_guanche:0 "Coran"
@@ -812,6 +907,27 @@
  duke_female_guanche:0 "Menceyata"
  king_female_guanche:0 "High Menceyata"
  emperor_female_guanche:0 "Mayec Menceyata"
+
+ # Gujaratis, by Ace (Muslim Enhancements)
+ baron_male_gujarati_group:0 "Mukhya"
+ baron_female_gujarati_group:0 "Mukhya Mahila"
+ barony_gujarati_group:0 "Pradesa"
+ count_male_gujarati_group:0 "Saradara"
+ count_female_gujarati_group:0 "Umadastri"
+ county_gujarati_group:0 "Adhipatya"
+ duke_male_gujarati_group:0 "Sasaka"
+ duke_female_gujarati_group:0 "Sasana"
+ duchy_gujarati_group:0 "Ksetra"
+ king_male_gujarati_group:0 "Raja"
+ king_female_gujarati_group:0 "Rani"
+ kingdom_gujarati_group:0 "Rajya"
+ emperor_male_gujarati_group:0 "Samrata"
+ emperor_female_gujarati_group:0 "Samratni"
+ empire_gujarati_group:0 "Samrajya"
+ duke_feudal_male_prince_gujarati:0 "Rajakumara"
+ duke_feudal_female_prince_gujarati:0 "Rajakumarī"
+ duchy_feudal_prince_gujarati:0 "Ksetra"
+
 
 ### OBSOLETE with new division ### West-African ###
 # Feudal / Clan / Tribal
@@ -893,13 +1009,6 @@
  prince_female_dravidian_group:0 "Rajkumari"
  prince_male_dravidian_group_empire:0 "Rajkumar"
  prince_female_dravidian_group_empire:0 "Rajkumari"
-
- ### Muslim Dravidian / Muslim Indo-Aryan ### 
- ### Uses Iranian Titles
- prince_muslim_male_dravidian_group:0 "$prince_male_iranian_group$"
- prince_muslim_female_dravidian_group:0 "$prince_female_iranian_group$"
- prince_muslim_male_dravidian_group_empire:0 "$prince_male_iranian_group_empire$"
- prince_muslim_female_dravidian_group_empire:0 "$prince_female_iranian_group_empire$"
 
 ## Imperial Prince ##
  prince_empire:0 "Prince"
@@ -1087,8 +1196,4 @@
  king_feudal_female_hausan:1 "Sarauniya"
  emperor_feudal_male_hausan:1 "Sarkin Sarakuna"
  emperor_feudal_female_hausan:1 "Sarauniyar Sarauniya"
-
-### Italic 
-# Feudal
- count_republic_latin_male:0 "Podesta"
- count_republic_latin_female:0 "Podestaressa"
+ 

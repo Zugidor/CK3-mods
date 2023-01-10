@@ -22,6 +22,13 @@
 - Prince (Empire heir) -> Tsarevich
 - Princess (Empire heiress) -> Tsarevna
 ^ Credit: Steam User jojo26123 for the ideas of improving the title holder names, changing Ruthenia to Kiev, and adding the new decision.
+UPDATE (2022/01/10):
+- Mayor -> Posadnik/Posadnitsa
+- Baron/Baroness -> Boyar/Boyaress
+- Barony -> Volost
+- Count/Countess -> Namestnik/Namestnitsa
+- Improved Russian localisation (Русaчск/Русaчи -> Русичи/Русичск, Графство -> Уéзд)
+^ Credit: Steam User [url=https://steamcommunity.com/id/lawfulneut]LawfulNeut[/url]
 • Changed the names of Rus culture knights to "Bogatyr". (credit: Steam user Riml121)
 • Changed the names of all other East Slavic language cultures' knights to "Boyar". (partial credit: Steam user InΔmatus)
 • Changed the barony, county and duchy of "Moskva" to "Moscow" as the proper exonym in English.
@@ -48,7 +55,7 @@ Countess -> Zhupana
 Kingdom -> Tsardom
 King -> Tsar
 Queen -> Tsaritsa
-(Partial credit for Vlach changes: Steam user Gigachad)
+(Partial credit for Vlach changes: Steam user [url=https://steamcommunity.com/profiles/76561199088186776]Gigachad[/url])
 • Added two new decisions: Gathering of Rus Princes and Recruit Nomad Host, for additional immersion for certain titles. Also, a new character background for Rus characters. (Credit: Steam user [url=https://steamcommunity.com/profiles/76561199088186776]Gigachad[/url] for providing a lot of useful code)
 [h2]Game version 1.5 changes[/h2]
 • Moved Galicia-Volhynia from West Slavia to Kievan Rus

@@ -1,4 +1,4 @@
-picture="thumbnail.png"
+thumbnail="thumbnail.png"
 version="1.5"
 tags={
 	"Historical"
@@ -7,5 +7,5 @@ tags={
 	"Map"
 }
 name="Kievan Rus fix"
-supported_version="1.7.*"
+supported_version="1.8.*"
 remote_file_id="2218355435"

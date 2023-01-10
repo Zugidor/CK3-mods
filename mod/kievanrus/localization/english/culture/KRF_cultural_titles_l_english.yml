@@ -1,6 +1,20 @@
 ﻿l_english:
 
 # Rus
+ baron_republic_male_rus:0 "Posadnik"
+ baron_republic_female_rus:0 "Posadnitsa"
+ baron_feudal_male_rus:0 "Boyar"
+ baron_feudal_female_rus:0 "Boyaress"
+ barony_feudal_rus:0 "Volost"
+ count_feudal_male_rus:0 "Namestnik"
+ count_feudal_female_rus:0 "Namestnitsa"
+ county_feudal_rus:0 "County"
+ duke_feudal_male_russian:0 "Prince"
+ duke_feudal_female_russian:0 "Princess"
+ duchy_feudal_russian:0 "Principality"
+ emperor_feudal_male_russian:0 "Tsar"
+ emperor_feudal_female_russian:0 "Tsaritsa"
+ empire_feudal_russian:0 "Tsardom"
  king_feudal_male_rus:0 "Grand Prince"
  king_feudal_female_rus:0 "Grand Princess"
  kingdom_feudal_rus:0 "Grand Principality"

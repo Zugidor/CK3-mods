@@ -1,6 +1,14 @@
 ﻿l_french:
 
 # Rus
+ baron_republic_male_rus:0 "Posadnique"
+ baron_republic_female_rus:0 "Posadnitrice"
+ baron_feudal_male_rus:0 "Boyar"
+ baron_feudal_female_rus:0 "Boyaresse"
+ barony_feudal_rus:0 "Volosté"
+ count_feudal_male_rus:0 "Namestnique"
+ count_feudal_female_rus:0 "Namestnitrice"
+ county_feudal_rus:0 "Comté"
  king_feudal_male_rus:0 "Grand prince"
  king_feudal_female_rus:0 "Grande princesse"
  kingdom_feudal_rus:0 "Grande-principauté"

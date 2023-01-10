@@ -4,6 +4,6 @@ tags={
 	"Map"
 }
 name="Eastern Roman Empire"
-supported_version="1.6.*"
+supported_version="1.8.*"
 path="C:/Paradox Interactive/Crusader Kings III/mod/PERE"
 remote_file_id="2222694039"
