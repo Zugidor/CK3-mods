@@ -27,7 +27,7 @@ UPDATE (2022/01/10):
 - Baron/Baroness -> Boyar/Boyaress
 - Barony -> Volost
 - Count/Countess -> Namestnik/Namestnitsa
-- Improved Russian localisation (Русaчск/Русaчи -> Русичи/Русичск, Графство -> Уéзд)
+- Improved Russian localisation (Русачск/Русачи -> Русичи/Русичск, Графство -> Уéзд)
 ^ Credit: Steam User [url=https://steamcommunity.com/id/lawfulneut]LawfulNeut[/url]
 • Changed the names of Rus culture knights to "Bogatyr". (credit: Steam user Riml121)
 • Changed the names of all other East Slavic language cultures' knights to "Boyar". (partial credit: Steam user InΔmatus)
@@ -85,6 +85,10 @@ Queen -> Tsaritsa
 • https://en.wiktionary.org/wiki/bogatyr#Noun 
 • https://en.wiktionary.org/wiki/voivode 
 • https://en.wiktionary.org/wiki/hospodar#Etymology 
+• https://en.wikipedia.org/wiki/Posadnik 
+• https://en.wikipedia.org/wiki/Boyar 
+• https://en.wikipedia.org/wiki/Volost 
+• https://en.wikipedia.org/wiki/Uezd 
 
 Feel free to ask questions, or add suggestions and feedback in the comments. Also Like and Favorite the mod if you like it, thanks!
 
