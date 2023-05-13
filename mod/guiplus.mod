@@ -5,5 +5,5 @@ tags={
 }
 name="GUI Plus"
 supported_version="1.8.*"
-path="C:/Paradox Interactive/Crusader Kings III/mod/guiplus"
+path="C:/Users/Michael/Documents/Paradox Interactive/Crusader Kings III/mod/guiplus"
 remote_file_id="2510561790"

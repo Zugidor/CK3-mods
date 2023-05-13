@@ -5,5 +5,5 @@ tags={
 }
 name="Eastern Roman Empire"
 supported_version="1.8.*"
-path="C:/Paradox Interactive/Crusader Kings III/mod/PERE"
+path="C:/Users/Michael/Documents/Paradox Interactive/Crusader Kings III/mod/PERE"
 remote_file_id="2222694039"

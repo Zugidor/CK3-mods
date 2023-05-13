@@ -8,5 +8,5 @@ tags={
 }
 name="Kievan Rus fix"
 supported_version="1.8.*"
-path="C:/Paradox Interactive/Crusader Kings III/mod/kievanrus"
+path="C:/Users/Michael/Documents/Paradox Interactive/Crusader Kings III/mod/kievanrus"
 remote_file_id="2218355435"

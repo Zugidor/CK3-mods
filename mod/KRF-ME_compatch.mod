@@ -5,5 +5,5 @@ tags={
 }
 name="KRF-ME Compatch"
 supported_version="1.8.*"
-path="C:/Paradox Interactive/Crusader Kings III/mod/KRF-ME_compatch"
+path="C:/Users/Michael/Documents/Paradox Interactive/Crusader Kings III/mod/KRF-ME_compatch"
 remote_file_id="2877600027"
