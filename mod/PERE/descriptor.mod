@@ -4,5 +4,5 @@ tags={
 	"Map"
 }
 name="Eastern Roman Empire"
-supported_version="1.8.*"
+supported_version="1.9.*"
 remote_file_id="2222694039"
