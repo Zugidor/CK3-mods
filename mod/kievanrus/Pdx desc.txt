@@ -68,9 +68,6 @@ GAME VERSION 1.5 CHANGES
 • Resolved lingering culture bugs due to pre-1.5 code
 (Large credit to Steam user Zarays)
 
-IRONMAN/ACHIEVEMENTS? 
-• Unfortunately, this mod changes the checksum and is therefore NOT ironman/achievement compatible. 
-
 COMPATIBILITY? 
 • This mod should be fully compatible with most non-overhaul mods. 
 
