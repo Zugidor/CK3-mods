@@ -3,5 +3,5 @@ tags={
 	"Historical"
 }
 name="Coat of Arms fix pack"
-supported_version="1.9.*"
+supported_version="1.12.*"
 remote_file_id="2510604340"
