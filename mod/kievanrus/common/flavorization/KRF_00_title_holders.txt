@@ -10,7 +10,6 @@ baron_republic_male_rus = {
 	top_liege = no
 	governments = { republic_government }
 	name_lists = { name_list_russian }
-	only_holder = yes
 }
 baron_republic_female_rus = {
 	type = character
@@ -21,7 +20,13 @@ baron_republic_female_rus = {
 	top_liege = no
 	governments = { republic_government }
 	name_lists = { name_list_russian }
-	only_holder = yes
+}
+barony_republic_rus = {
+	type = title
+	tier = barony
+	priority = 7
+	governments = { republic_government }
+	name_lists = { name_list_russian }
 }
 baron_feudal_male_rus = {
 	type = character
@@ -31,7 +36,6 @@ baron_feudal_male_rus = {
 	priority = 7
 	governments = { feudal_government tribal_government }
 	name_lists = { name_list_russian }
-	only_holder = yes
 }
 baron_feudal_female_rus = {
 	type = character
@@ -41,12 +45,11 @@ baron_feudal_female_rus = {
 	priority = 7
 	governments = { feudal_government tribal_government }
 	name_lists = { name_list_russian }
-	only_holder = yes
 }
 barony_feudal_rus = {
 	type = title
 	tier = barony
-	priority = 18
+	priority = 7
 	governments = { feudal_government tribal_government }
 	name_lists = { name_list_russian }
 }
@@ -58,7 +61,6 @@ count_feudal_male_rus = {
 	priority = 18
 	governments = { feudal_government tribal_government }
 	name_lists = { name_list_russian }
-	only_holder = yes
 }
 count_feudal_female_rus = {
 	type = character
@@ -68,12 +70,36 @@ count_feudal_female_rus = {
 	priority = 18
 	governments = { feudal_government tribal_government }
 	name_lists = { name_list_russian }
-	only_holder = yes
 }
 county_feudal_rus = {
 	type = title
 	tier = county
 	priority = 18
+	governments = { feudal_government tribal_government }
+	name_lists = { name_list_russian }
+}
+duke_feudal_male_rus = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 30
+	governments = { feudal_government tribal_government }
+	name_lists = { name_list_russian }
+}
+duke_feudal_female_rus = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 30
+	governments = { feudal_government tribal_government }
+	name_lists = { name_list_russian }
+}
+duchy_feudal_rus = {
+	type = title
+	tier = duchy
+	priority = 30
 	governments = { feudal_government tribal_government }
 	name_lists = { name_list_russian }
 }
