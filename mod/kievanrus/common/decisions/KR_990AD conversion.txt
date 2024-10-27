@@ -1,21 +1,12 @@
 historical_orthodox_rus_conversion_decision = {
-	
-	picture = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
-	
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
+	}
+	sort_order = 10
 	major = no
-	
 	#ai_goal = yes
-	
 	ai_check_interval = 12
-	
-	title = "Christianise the Rus"
-	
-    desc = "For many years, our people have raided and traded with the wealthy realm of the Romans beyond the Black Sea. In Constantinople stands the Hagia Sophia, the largest place of worship in the known world. Perhaps the time has come to forsake the old gods and adopt the faith of the City of The World's Desire? After all, Jesus turned water into wine, and is it not true that drinking is the joy of all Rus?"
-	
-    selection_tooltip = "The Rus people under your rule adopt Orthodox Christianity"
-	
-    confirm_text = "Send for the Patriarch"
-	
+    confirm_text = historical_orthodox_conversion_decision_confirm
 	is_shown = {
 		is_ruler = yes
 		culture = culture:russian
@@ -28,55 +19,40 @@ historical_orthodox_rus_conversion_decision = {
 			}
 		}
 	}
-	
 	is_valid = {
 		is_independent_ruler = yes
 	}
-	
 	is_valid_showing_failures_only = {
 		is_imprisoned = no
 		is_available_adult = yes
 		is_at_war = no
 		is_capable_adult = yes
 	}
-	
 	effect = {
         set_character_faith_with_conversion = faith:orthodox
     }
-	
 	cost = {
 		piety = 500
 		gold = 100
 	}
-
 	ai_potential = {
 		current_date >= 988.1.1
 		#always = yes
 	}
-
 	ai_will_do = {
 		base = 33
 	}
 }
 
 historical_orthodox_eastslavs_conversion_decision = {
-	
-	picture = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
-	
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
+	}
+	sort_order = 10
 	major = no
-	
 	#ai_goal = yes
-	
 	ai_check_interval = 12
-	
-	title = "Christianise the East Slavs"
-	
-    desc = "For many years, our people have raided and traded with the wealthy realm of the Romans beyond the Black Sea. In Constantinople stands the Hagia Sophia, the largest place of worship in the known world. Perhaps the time has come to forsake the old gods and adopt the faith of the City of The World's Desire? After all, Jesus turned water into wine, and is it not true that drinking is the joy of all Slavs?"
-	
-    selection_tooltip = "The East Slavic people under your rule adopt Orthodox Christianity"
-	
-    confirm_text = "Send for the Patriarch"
-	
+    confirm_text = historical_orthodox_conversion_decision_confirm
 	is_shown = {
 		is_ruler = yes
 		culture = { has_cultural_pillar = heritage_east_slavic }
@@ -92,32 +68,26 @@ historical_orthodox_eastslavs_conversion_decision = {
 			}
 		}
 	}
-	
 	is_valid = {
 		is_independent_ruler = yes
 	}
-	
 	is_valid_showing_failures_only = {
 		is_imprisoned = no
 		is_available_adult = yes
 		is_at_war = no
 		is_capable_adult = yes
 	}
-	
 	effect = {
         set_character_faith_with_conversion = faith:orthodox
     }
-	
 	cost = {
 		piety = 500
 		gold = 100
 	}
-
 	ai_potential = {
 		current_date >= 988.1.1
 		#always = yes
 	}
-
 	ai_will_do = {
 		base = 33
 	}

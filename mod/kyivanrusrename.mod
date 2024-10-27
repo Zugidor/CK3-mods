@@ -7,6 +7,6 @@ tags={
 	"Map"
 }
 name="Kyivan Rus Rename"
-supported_version="1.12.*"
+supported_version="1.13.*"
 path="C:/Users/Michael/Documents/Paradox Interactive/Crusader Kings III/mod/kyivanrusrename"
 remote_file_id="3302258522"

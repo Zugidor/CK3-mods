@@ -2,5 +2,3 @@ Adds decision for Norse, Hungarian, and West Slav independent rulers to adopt Ca
 - Norse AI will not convert via decision before 1st January 995
 - West Slavic AI will not convert via decision before 14th April 966
 - Hungarian AI will not convert via decision before 1st January 1000
-
-NOT Ironman Compatible
