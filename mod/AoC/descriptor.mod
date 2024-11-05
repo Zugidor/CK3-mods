@@ -6,5 +6,5 @@ tags={
 	"Religion"
 }
 name="Adoption of Catholicism"
-supported_version="1.13.*"
+supported_version="1.14.*"
 remote_file_id="2377747810"
