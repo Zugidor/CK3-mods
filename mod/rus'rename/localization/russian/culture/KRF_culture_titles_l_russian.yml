@@ -1,14 +1,17 @@
 ﻿l_russian:
 
 # Rus
- baron_republic_male_rus:0 "Посадник"
- baron_republic_female_rus:0 "Посадница"
+ #baron_republic_male_rus:0 "Посадник"
+ #baron_republic_female_rus:0 "Посадница"
  baron_feudal_male_rus:0 "Боярин"
  baron_feudal_female_rus:0 "Боярина"
  barony_feudal_rus:0 "Волость"
  count_feudal_male_rus:0 "Наместник"
  count_feudal_female_rus:0 "Наместница"
  county_feudal_rus:0 "Уезд"
+ duke_feudal_male_rus:0 "Князь"
+ duke_feudal_female_rus:0 "Княгиня"
+ duchy_feudal_rus:0 "Княжество"
  king_feudal_male_rus:0 "Великий князь"
  king_feudal_female_rus:0 "Великая княгиня"
  kingdom_feudal_rus:0 "Великое княжество"
@@ -16,6 +19,13 @@
  prince_female_rus:0 "Княжна"
  prince_male_rus_empire:0 "Царевич"
  prince_female_rus_empire:0 "Царевна"
+# Vanilla
+ duke_feudal_male_russian:0 "Князь"
+ duke_feudal_female_russian:0 "Княгиня"
+ duchy_feudal_russian:0 "Княжество"
+ emperor_feudal_male_russian:0 "Царь"
+ emperor_feudal_female_russian:0 "Царица"
+ empire_feudal_russian:0 "Царство"
   
 # Bulgarian
  king_feudal_male_bulgarian:0 "Царь"

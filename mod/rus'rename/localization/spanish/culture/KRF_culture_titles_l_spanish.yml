@@ -1,21 +1,31 @@
 ﻿l_spanish:
 
 # Rus
- baron_republic_male_rus:0 "Posadne"
- baron_republic_female_rus:0 "Posadnesa"
+ #baron_republic_male_rus:0 "Posadne"
+ #baron_republic_female_rus:0 "Posadnesa"
  baron_feudal_male_rus:0 "Boyar"
  baron_feudal_female_rus:0 "Boyaresa"
  barony_feudal_rus:0 "Volosto"
  count_feudal_male_rus:0 "Namstne"
  count_feudal_female_rus:0 "Namestnesa"
  county_feudal_rus:0 "Condado"
+ duke_feudal_male_rus:0 "Príncipe"
+ duke_feudal_female_rus:0 "Princesa"
+ duchy_feudal_rus:0 "Principado"
  king_feudal_male_rus:0 "Gran príncipe"
  king_feudal_female_rus:0 "Gran princesa"
  kingdom_feudal_rus:0 "Gran principado"
- #prince_male_rus:0 "Kniazhich"
- #prince_female_rus:0 "Kniazhna"
+ prince_male_rus:0 "Kniazhiche"
+ prince_female_rus:0 "Kniazhnesa"
  prince_male_rus_empire:0 "Zarev"
  prince_female_rus_empire:0 "Zarevesa"
+# Vanilla
+ duke_feudal_male_russian:0 "Príncipe"
+ duke_feudal_female_russian:0 "Princesa"
+ duchy_feudal_russian:0 "Principado"
+ emperor_feudal_male_russian:0 "Zar"
+ emperor_feudal_female_russian:0 "Zaresa"
+ empire_feudal_russian:0 "Zardo"
   
 # Bulgarian
  king_feudal_male_bulgarian:0 "Zar"

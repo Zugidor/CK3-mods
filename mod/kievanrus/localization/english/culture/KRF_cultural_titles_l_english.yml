@@ -1,9 +1,8 @@
 ﻿l_english:
 
 # Rus
- baron_republic_male_rus:0 "Posadnik" # not working
- baron_republic_female_rus:0 "Posadnitsa" # not working
- barony_republic_rus:0 "City" # not sure
+ #baron_republic_male_rus:0 "Posadnik" # not working
+ #baron_republic_female_rus:0 "Posadnitsa" # not working
  baron_feudal_male_rus:0 "Boyar"
  baron_feudal_female_rus:0 "Boyaress"
  barony_feudal_rus:0 "Volost"

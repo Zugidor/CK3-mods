@@ -1,21 +1,31 @@
 ﻿l_french:
 
 # Rus
- baron_republic_male_rus:0 "Posadnique"
- baron_republic_female_rus:0 "Posadnitrice"
+ #baron_republic_male_rus:0 "Posadnique"
+ #baron_republic_female_rus:0 "Posadnitrice"
  baron_feudal_male_rus:0 "Boyar"
  baron_feudal_female_rus:0 "Boyaresse"
  barony_feudal_rus:0 "Volosté"
  count_feudal_male_rus:0 "Namestnique"
  count_feudal_female_rus:0 "Namestnitrice"
  county_feudal_rus:0 "Comté"
+ duke_feudal_male_rus:0 "Prince"
+ duke_feudal_female_rus:0 "Princesse"
+ duchy_feudal_rus:0 "Principauté"
  king_feudal_male_rus:0 "Grand prince"
  king_feudal_female_rus:0 "Grande princesse"
  kingdom_feudal_rus:0 "Grande-principauté"
- prince_male_rus:0 "Kniazhich"
- prince_female_rus:0 "Kniazhna"
- prince_male_rus_empire:0 "Tsarevich"
- prince_female_rus_empire:0 "Tsarevna"
+ prince_male_rus:0 "Kniazhiche"
+ prince_female_rus:0 "Kniazhnice"
+ prince_male_rus_empire:0 "Tsareviche"
+ prince_female_rus_empire:0 "Tsarevnice"
+# Vanilla
+ duke_feudal_male_russian:0 "Prince"
+ duke_feudal_female_russian:0 "Princesse"
+ duchy_feudal_russian:0 "Principauté"
+ emperor_feudal_male_russian:0 "Tsar"
+ emperor_feudal_female_russian:0 "Tsaritrice"
+ empire_feudal_russian:0 "Tsarisme"
   
 # Bulgarian
  king_feudal_male_bulgarian:0 "Tsar"
